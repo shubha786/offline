@@ -1,0 +1,5 @@
+{
+  "name": "Offline Maps Navigator",
+  "description": "An interactive map application designed for offline use. Download map regions to your device, navigate using your live GPS location, and manage your saved places without an internet connection.",
+  "requestFramePermissions": []
+}
